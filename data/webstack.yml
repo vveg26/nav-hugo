@@ -5,9 +5,14 @@
   links: 
     - title: 我的博客
       logo: https://avatars.githubusercontent.com/u/62206240?v=4
-      url: https://piig.top
+      url: https://blog.piig.top
       qrcode: https://avatars.githubusercontent.com/u/62206240?v=4
       description: 透过现象看本质
+    - title: 主站点
+      logo: https://piig.top/img/avatar.png
+      url: https://piig.top
+      
+      description: 主页
 - taxonomy: 常用服务
   icon: fas fa-folder-open fa-lg
   list:
