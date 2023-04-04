@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>老派的导航站</title>
+    <link>https://nav.piig.top/</link>
+    <description>Recent content on 老派的导航站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language><atom:link href="https://nav.piig.top/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于网站</title>
+      <link>https://nav.piig.top/about/</link>
+      <pubDate>Tue, 28 Jul 2020 19:27:08 +0800</pubDate>
+      
+      <guid>https://nav.piig.top/about/</guid>
+      <description>这是 老派的导航站 Email: vegforwork@gmail.com Blog: piig.top 我：about.piig.top</description>
+    </item>
+    
+  </channel>
+</rss>
