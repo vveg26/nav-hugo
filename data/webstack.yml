@@ -1,0 +1,208 @@
+---
+
+- taxonomy: 后花园
+  icon: far fa-star
+  links: 
+    - title: 我的博客
+      logo: https://avatars.githubusercontent.com/u/62206240?v=4
+      url: https://piig.top
+      qrcode: https://avatars.githubusercontent.com/u/62206240?v=4
+      description: 透过现象看本质
+- taxonomy: 常用服务
+  icon: fas fa-folder-open fa-lg
+  list:
+    - term: 服务
+      links:
+        - title: Freenom
+          logo: https://api.iowen.cn/favicon/www.freenom.com.png
+          url: https://www.freenom.com/zu/index.html?lang=zu
+          description: 免费域名.
+        - title: Namesoil
+          logo: https://api.iowen.cn/favicon/www.namesilo.com.png
+          url: https://www.namesilo.com/
+          description: Namesoil域名.
+        - title: CloudFlare
+          logo: https://api.iowen.cn/favicon/dash.cloudflare.com.png
+          url: https://dash.cloudflare.com/
+          description: DNS解析.
+          
+        - title: RN
+          logo: https://api.iowen.cn/favicon/my.racknerd.com.png
+          url: https://my.racknerd.com/clientarea.php
+          description: RN.
+        - title: Netlify
+          logo: https://api.iowen.cn/favicon/www.netlify.com.png
+          url: https://www.netlify.com/
+          description: Netlify.
+        - title: Vercel
+          logo: https://api.iowen.cn/favicon/vercel.com.png
+          url: https://vercel.com/
+          description: Vercel.
+- taxonomy: 常用网站
+  icon: fas fa-flask fa-lg
+  list:
+    - term: 最常用
+      links:
+        - title: Github
+          logo: https://api.iowen.cn/favicon/github.com.png
+          url: https://github.com/
+          description: Youtube.
+        - title: Youtube
+          logo: https://api.iowen.cn/favicon/youtube.com.png
+          url: https://youtube.com/
+          description: Youtube.
+        - title: Feedly
+          logo: https://api.iowen.cn/favicon/feedly.com.png
+          url: https://feedly.com/i/my
+          description: Feedly.
+        - title: ChatGpt
+          logo: https://api.iowen.cn/favicon/chat.openai.com.png
+          url: https://chat.openai.com/chat
+          description: ChatGpt.
+        - title: 粉笔课堂
+          logo: https://api.iowen.cn/favicon/www.fenbi.com.png
+          url: https://www.fenbi.com/spa/pwa/episodes/550701
+          description: 粉笔课堂.
+    - term: 邮箱管理
+      links:
+        - title: Gmail
+          logo: https://mail.google.com/favicon.ico
+          url: https://accounts.google.com/b/0/AddMailService
+          description: Gmail邮箱.
+        - title: OutLook
+          logo: https://outlook.live.com/mail/favicon.ico
+          url: https://outlook.live.com/mail/0/inbox
+          description: "OutLook邮箱."
+        - title: Temp Mail
+          logo: https://api.iowen.cn/favicon/temp-mail.org.png
+          url: https://temp-mail.org/zh/view/721fd1a828fce15b513323e74b48e0c3
+          description: YOPMail
+        - title: DuckDuckGo
+          logo: https://api.iowen.cn/favicon/duckduckgo.com.png
+          url: https://duckduckgo.com/email/settings/autofill
+          description: "duckduckgo"
+    - term: 社交网站
+      links:
+
+        - title: Voice
+          logo: https://api.iowen.cn/favicon/voice.google.com.png
+          url: https://voice.google.com/u/0/calls
+          description: "duckduckgo" 
+        - title: Reddit
+          logo: https://api.iowen.cn/favicon/www.reddit.com.png
+          url: https://www.reddit.com/
+          description: "Reddit" 
+        - title: Twitter
+          logo: https://api.iowen.cn/favicon/twitter.com.png
+          url: https://twitter.com/home?lang=en
+          description: "Twitter."
+        - title: Telegram
+          logo: https://api.iowen.cn/favicon/web.telegram.org.png
+          url: https://web.telegram.org/k/
+          description: Telegram
+        - title: 知乎
+          logo: https://api.iowen.cn/favicon/www.zhihu.com.png
+          url: https://www.zhihu.com/
+          description: "知乎"        
+        - title: V2ex
+          logo: https://api.iowen.cn/favicon/www.v2ex.com.png
+          url: https://www.v2ex.com/
+          description: "V2ex" 
+        - title: Ins
+          logo: https://api.iowen.cn/favicon/www.instagram.com.png
+          url: https://www.instagram.com/
+          description: "Ins" 
+    - term: 云盘
+      links:
+        - title: 阿里云盘
+          logo: https://api.iowen.cn/favicon/www.aliyundrive.com.png
+          url: https://www.aliyundrive.com/drive/
+        - title: OneDrive
+          logo: https://api.iowen.cn/favicon/onedrive.live.com.png
+          url: https://onedrive.live.com/?id=root&cid=CCD261E3EFE53B11
+          description: OneDrive.
+        - title: Google Drive
+          logo: https://api.iowen.cn/favicon/drive.google.com.png
+          url: https://drive.google.com/drive/my-drive
+          description: "Google Drive"   
+        - title: 蓝奏云
+          logo: https://api.iowen.cn/favicon/up.woozooo.com.png
+          url: https://up.woozooo.com/mydisk.php
+          description: "蓝奏云" 
+    - term: 看电视
+      links:
+        - title: 茶杯胡
+          logo: https://api.iowen.cn/favicon/cupfox.app.png
+          url: https://cupfox.app/
+          description: 茶杯胡.
+        - title: 奈飞影视
+          logo: https://api.iowen.cn/favicon/www.nfyingshi.com.png
+          url: https://www.nfyingshi.com/
+          description: 奈飞影视.
+        - title: 虾米接口
+          logo: https://api.iowen.cn/favicon/jx.xmflv.com.png
+          url: https://jx.xmflv.com/?url=
+          description: "虾米接口"         
+- taxonomy: 工具盒子
+  icon: fas fa-book fa-lg
+  list:
+    - term: 壁纸站点
+      links:
+        - title: 极简壁纸
+          logo: https://api.iowen.cn/favicon/bz.zzzmh.cn.png
+          url: https://bz.zzzmh.cn/#anime
+          description: 极简壁纸.
+        - title: wallhaven.cc
+          logo: https://api.iowen.cn/favicon/wallhaven.cc.png
+          url: https://wallhaven.cc/search?categories=010&purity=110&sorting=date_added&order=desc&page=2
+          description: wallhaven.cc.
+    - term: 思维导图
+      links:
+        - title: 思维导图
+          logo: https://api.iowen.cn/favicon/mm.edrawsoft.cn.png
+          url: https://mm.edrawsoft.cn/create
+          description: 思维导图.
+        - title: 流程图
+          logo: https://api.iowen.cn/favicon/online.visual-paradigm.com.png
+          url: https://online.visual-paradigm.com/diagrams/features/flowchart-tool/
+          description: 流程图.
+    - term: 素材
+      links:
+        - title: 图标
+          logo: https://api.iowen.cn/favicon/icons8.com.png
+          url: https://icons8.com/
+          description: 图标.
+
+
+- taxonomy: 私密包
+  icon: fas fa-thumbs-up fa-lg
+  list:
+    - term: 色包
+      links:
+        - title: pornhub
+          logo: https://api.iowen.cn/favicon/pornhub.com.png
+          url: https://cn.pornhub.com/
+          description: P站.
+        - title: XVideos
+          logo: https://api.iowen.cn/favicon/www.xvideos.com.png
+          url: https://www.xvideos.com/
+          description: XVideos.
+        - title: 91
+          logo: https://api.iowen.cn/favicon/91porny.com.png
+          url: https://91porny.com/
+          description: 91.
+          
+        - title: 草榴
+          logo: https://api.iowen.cn/favicon/t66y.com.png
+          url: https://t66y.com/index.php
+          description: 草榴.
+    - term: 盗版盒子
+      links:
+        - title: 俄区正版
+          logo: https://api.iowen.cn/favicon/byrut.org.png
+          url: https://byrut.org/
+          description: 俄区正版.
+        - title: 海盗湾
+          logo: https://api.iowen.cn/favicon/thepiratebay.org.png
+          url: https://thepiratebay.org/search.php?q=Hades&all=on&search=Pirate+Search&page=0&orderby=
+          description: 海盗湾.
