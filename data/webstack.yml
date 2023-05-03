@@ -9,9 +9,11 @@
       qrcode: https://avatars.githubusercontent.com/u/62206240?v=4
       description: 透过现象看本质
     - title: 主站点
-      logo: https://piig.top/img/avatar.png
-      url: https://piig.top
-      
+      logo: https://about.piig.top/img/avatar.png
+      url: https://about.piig.top
+    - title: 网盘
+      logo: https://about.piig.top/img/avatar.png
+      url: https://drive.piig.top      
       description: 主页
 - taxonomy: 常用服务
   icon: fas fa-folder-open fa-lg
