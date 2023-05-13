@@ -3,14 +3,26 @@
 - taxonomy: 后花园
   icon: far fa-star
   links: 
-    - title: 我的博客
-      logo: https://avatars.githubusercontent.com/u/62206240?v=4
-      url: https://blog.piig.top
-      qrcode: https://avatars.githubusercontent.com/u/62206240?v=4
-      description: 透过现象看本质
     - title: 主站点
       logo: https://about.piig.top/img/avatar.png
       url: https://about.piig.top
+      description: 主页
+
+    - title: 分享生活
+      logo: https://about.piig.top/img/avatar.png
+      url: https://pornhug.top
+      description: 分享我和琪琪子的日常
+
+    - title: 技术博客
+      logo: https://about.piig.top/img/avatar.png
+      url: https://blog.piig.top
+      qrcode: https://about.piig.top/img/avatar.png
+      description: 透过现象看本质
+    - title: 说说
+      logo: https://about.piig.top/img/avatar.png
+      url: https://memos.piig.top
+      description: 碎碎念
+
     - title: 网盘
       logo: https://about.piig.top/img/avatar.png
       url: https://drive.piig.top      
